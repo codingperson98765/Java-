@@ -11,9 +11,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.Component;
 /*Ahmedh Shamsudeen
-UCID 30121541
-A5 Version 1.0
-Tutorial 7
 Purpose: Handles all aspects of the Login Window
 Contains; userLogin() method which handles all the action events when the use tries to login. 
 Features;
