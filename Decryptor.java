@@ -1,7 +1,5 @@
 /*Ahmedh Shamsudeen
-UCID 30121541
-A5 Version 1.0
-Tutorial 7
+
 Purpose: Decrypts letters from password file.
 Contains; char [] of alphabet. Contains list of decrypted password
 Features;
