@@ -1,7 +1,4 @@
 /*Ahmedh Shamsudeen
-UCID 30121541
-A5 Version 1.0
-Tutorial 7
 Purpose: intitally runs the program.
 Contains; Object of the login class, used to call method of login.
 Features;
